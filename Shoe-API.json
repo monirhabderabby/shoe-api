@@ -1,0 +1,114 @@
+[
+ {
+   "id": 1,
+   "name": "TERREX AGRAVIC PRO",
+   "image": " https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0a340319370844e99645abc90091df96_9366/Terrex_Agravic_Tech_Pro_Trail_Running_Shoes_Black_FU7634_01_standard.jpg",
+   "description": "The more rocky and rugged the terrain, the more you need these adidas trail running shoes on your feet. They offer 360 degrees of protection, from the full-length rock plate and debris collar to the abrasion-resistant overlays that hold up to scrapes and scuffs. Feel the freedom to push faster and test your limits thanks to plush LIGHSTRIKE cushioning that absorbs impact over long runs. The Continental™ Rubber outsole offers extraordinary grip.",
+   "price": 220
+ },
+ {
+   "id": 2,
+   "name": "TERREX AGRAVIC ULTRA ",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6d4cda7c4644482ab2b5ad5100e4ae4c_9366/Terrex_Agravic_Ultra_Trail_Running_Shoes_Black_FY7660_01_standard.jpg",
+   "description": "The Terrex Agravic Ultra has been created in close collaboration with one of the world's fastest ultra trail runners, Ekaterina Mityaeva. It is one of the first trail running shoes from adidas to feature a TPE bio-based plate that's made out of 90% renewable carbon.​The plate runs the entire length of the shoe for lightweight, durable rock protection over long-distance mountain trails.​ A blend of responsive BOOST and ultra-lightweight Lightstrike ensures high-energy return over mountainous terrain and cushions every stride to help you keep your pace over technical trails.​",
+   "price": 160
+ },
+ {
+   "id": 3,
+   "name": "TERREX AGRAVIC TECH PRO",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0a340319370844e99645abc90091df96_9366/Terrex_Agravic_Tech_Pro_Trail_Running_Shoes_Black_FU7634_01_standard.jpg",
+   "description": "Whether you're crossing glaciers or scrambling up a serious piece of rock, these adidas Terrex Agravic Pro Tech Trail Running Shoes were made to push limits. The high-cut shoes are water repellent and have adjustable laces that let you dial in the fit without taking off your gloves. Responsive cushioning stays comfortable in low temperatures.",
+   "price": 250
+ },
+ {
+   "id": 4,
+   "name": "TERREX TRAILMAKER MID",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31b33bad99b54adda37bac8e011e62df_9366/Terrex_Trailmaker_Mid_GORE-TEX_Hiking_Shoes_Green_FZ2511_01_standard.jpg",
+   "description": "Cold and wintery conditions won't be a problem in this adidas Terrex Trailmaker Mid shoe – designed to be the ultimate allrounder. Its lightweight stretchy material and water-repellent winter-lined membrane fit snugly around the foot. With water-repellent PrimaLoft® and COLD.RDY insulation, you'll stay warm and dry even on cold, wet hikes.",
+   "price": 150
+ },
+ {
+   "id": 5,
+   "name": "Men's Basketball Shoes",
+   "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b1f64f7c-a67f-49b0-b4a0-7c4bf339db7d/lebron-19-basketball-shoes-pbfCF3.png",
+   "description": "Russell Westbrook is fast. The Jordan Why Not .5 helps keep him contained with updated cushioning, data-informed traction and a full-foot fit system that keeps him in control. It has the rugged utility look of a trail running shoe combined with the on-purpose clash of colours and materials at the core of Why Not?",
+   "price": 120
+ },
+ {
+   "id": 6,
+   "name": "Nike Air More Uptempo",
+   "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ls18t4crkxjbr3fysf6r/air-more-uptempo-96-shoes-KwM99n.png",
+   "description": "With '90s graffiti-styled graphics alongside visible Air cushioning, the Air More Uptempo '96 is all about off-court looks. Fun, discoverable details celebrate the hard work and grit it takes to make hoops dreams come true.",
+   "price": 150
+ },
+ {
+   "id": 7,
+   "name": "Nike Air Max 2021",
+   "image": "https://images.footlocker.com/is/image/EBFL2/H8050005_a1?wid=520&hei=520&fmt=png-alpha",
+   "description": "We could use a lot of superlatives to describe these shoes. We could tell you that the new Air cushioning system delivers the most revolutionary sensation you've ever felt. Or say the cored-out foam midsole gives you an incredibly soft feel. But what fun is giving away all the surprises? Lace up and feel the next era of Air for yourself.",
+   "price": 145
+ },
+ {
+   "id": 8,
+   "name": "Nike Air Zoom SuperRep 3",
+   "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3362458b-9543-4e4f-b2cb-f5a7532e4311/air-zoom-superrep-3-hiit-class-shoes-dSzQgH.png",
+   "description": "Power through each rep with a redesigned look that brings support and stability to your every move.It's lighter than previous versions so you can pick up the pace during circuit training and HIIT.With Zoom Air cushioning and flexibility underfoot, it keeps you ready for every lunge, step and jump.",
+   "price": 102
+ },
+ {
+   "id": 9,
+   "name": "Nike Air Max INTRLK",
+   "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/01a7f056-4d0e-49fe-9365-eb1a4fa7a1a8/air-max-intrlk-lite-shoes-nfMxNF.png",
+   "description": "You've got to feel the sensation to be the sensation. Enter the Nike Air Max INTRLK. Stacked Air cushioning turns the page in comfort with increased responsiveness and the perfect amount of bounce. Lightweight, easy-to-style materials stand up to wear and tear. Finishing it off, the Waffle-inspired outsole adds true Nike zest.",
+   "price": 96
+ },
+ {
+   "id": 10,
+   "name": "Air Jordan XII",
+   "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b2d2a79f-92b8-4a94-887a-55d3dbe3805f/air-jordan-12-retro-shoe-WwCSBH.png",
+   "description": "Michael Jordan's game-winning classic from the mid-90s returns—and this time it's built for golf. The Air Jordan 12 Low updates the famous, rising sun-inspired stitch lines and quilted-like upper with an incredibly grippy spiked outsole and a springy, full-length Zoom Air unit.",
+   "price": 190
+ },
+ {
+   "id": 11,
+   "name": "NMD_R1 PRIMEBLUE",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c3bd9dda9fdd4a7cbc9aad1e00dd0045_9366/NMD_R1_Primeblue_Shoes_White_GZ9260_01_standard.jpg",
+   "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style.\nThis product is made with Primeblue, a high-performance recycled material made in part with Parley Ocean Plastic. 50% of the upper is textile, 75% of the textile is Primeblue yarn. No virgin polyester.",
+   "price": 150
+ },
+ {
+   "id": 12,
+   "name": "Y-3 HOKORI SANDALS",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bdb619864f4046ffb846ade3008a6a21_9366/Y-3_Hokori_Sandals_Black_GX1059_01_standard.jpg",
+   "description": "\"Y-3 is a strong examination of the blend of sport and style and the tension caused by mixing tradition with all that is modern.\"  — Yohji Yamamoto\n\nReferencing one of the most influential basketball sneakers of the '80s, the Y-3 Hokori rewrites the modern fashion code with refined expression. The exaggerated sandals simultaneously pay homage to the iconic Y-3 Qasa, with the same elastic straps and heel detailing. Premium suede and neoprene come together on the strap to help create the bold look, emphasized with a thick outsole.",
+   "price": 250
+ },
+ {
+   "id": 13,
+   "name": "QISAN COZY SHOES",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4331640deb0947c7bda8ad2c00bbc1a4_9366/Y-3_Qisan_Cozy_Black_H05692_01_standard.jpg",
+   "description": "\"Y-3 is a strong examination of the blend of sport and style and the tension caused by mixing tradition with all that is modern.\"  — Yohji Yamamoto\n\nY-3 blends inspiration from its past with state-of-the-art adidas technology to introduce a new silhouette. The Qisan Cozy Shoes take cues from the iconic Y-3 Qasa, borrowing inspiration from the heel tab to complete the slip-on design. A neoprene upper with leather and rubber detailing establishes the connection further. The TPU plate shines through the distinctive tooling.",
+   "price": 400
+ },
+ {
+   "id": 14,
+   "name": "ADIZERO TAKUMI SEN",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e3113d7c54c44baaaac0ad6500b30f9c_9366/Adizero_Takumi_Sen_8_Shoes_Grey_H01121_01_standard.jpg",
+   "description": "Race day is here, and it's time to unleash the speed. Find your fastest tempo in these adidas running shoes made for 5K to half-marathon road races. Lightstrike Pro cushioning energizes your stride while ENERGYRODS add stiffness for snappy toe-offs. The upper has a barely there feel — because you don't want anything holding you back.\n\nMade with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste.",
+   "price": 180
+ },
+ {
+   "id": 15,
+   "name": "BOSSK NMD_R1",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/055fdd9a8c5b4c42b74cadb700edb0e4_9366/Bossk_NMD_R1_Spectoo_Shoes_Black_GX6792_01_standard.jpg",
+   "description": "Some things in life aren't that simple, just like Boba Fett and Bossk's relationship. Friends? Rivals? It's complicated. Created in collaboration with Disney and Lucasfilm, these NMD_R1s are the perfect sneakers to roll with your crew through the galaxy. A tribute to partnerships built on ruthless respect.\n\nRock these sneakers on the street and show your allegiance to Boba Fett, available exclusively only through adidas online. You won't find them anywhere else.",
+   "price": 150
+ },
+ {
+   "id": 16,
+   "name": "ULTRABOOST 22 SHOES",
+   "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+   "description": "Take advantage of today. These running shoes use the latest innovations to keep you striding comfortably and confidently. BOOST delivers incredible energy return and instant comfort while an adidas PRIMEKNIT upper wraps the foot with a supportive fit that enhances every move. A Linear Energy Push system integrated with the outsole increases stability for extra responsiveness.\n\nThis shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic — reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean. The other 50% of the yarn is recycled polyester.",
+   "price": 250
+ }
+]
